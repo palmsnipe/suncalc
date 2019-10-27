@@ -1,6 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
-
-import 'package:flutter_suncalc/flutter_suncalc.dart';
+import 'package:test/test.dart';
+import '../lib/suncalc.dart';
 
 void main() {
 
